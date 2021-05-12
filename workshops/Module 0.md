@@ -24,7 +24,7 @@ Please make sure you fulfill the following pre-requisites before starting the wo
     1. **Find** your Storage Account in the Explorer. Right click on its *Blob Containers* and select *Paste Blob Container*.
         ![](images/pasteblobcontainer.png)
     1. Confirm that the container copied successfully by checking the Activities at the bottom of the Azure Storage Explorer.
-1.	**Create** an [Azure Search](https://docs.microsoft.com/en-us/azure/search/search-create-service-portal) resource. (A Free Tier should be sufficient for this workshop).
+1.	**Create** an [Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/search-create-service-portal) resource. (A Free Tier should be sufficient for this workshop).
 [Learn more](https://docs.microsoft.com/en-us/azure/search/search-sku-tier)
 
 1.	**Create** a [Cognitive Services resource](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows).
